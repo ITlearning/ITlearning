@@ -13,6 +13,6 @@
   [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/ITIBY)](https://www.facebook.com/ITIBY)
   
   
-  **[Notion BlockChain Note]**(https://www.notion.so/BlockChain-Project-93caff8955794e4aa48fdad791a80b1a)
+  **[Notion BlockChain Note]** (https://www.notion.so/BlockChain-Project-93caff8955794e4aa48fdad791a80b1a)
   </div>
 
