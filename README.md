@@ -3,6 +3,8 @@
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ITlearning)](https://github.com/anuraghazra/github-readme-stats)
   
   
+  Hello! I'm IT_learning. 
+  
   ##### 대한민국 육군 복무 中
   ###### 2020.01.06 ~ 2021.07.18
   
