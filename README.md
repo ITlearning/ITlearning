@@ -5,7 +5,7 @@
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=ITlearning)](https://github.com/ryo-ma/github-profile-trophy)
   
-  interested in **Blockchain,IoT,Environmental Protection.**
+  interested in **Blockchain,IoT.**
   
   [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/ITIBY)](https://www.facebook.com/ITIBY)
   
