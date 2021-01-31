@@ -14,7 +14,7 @@
   ##### 대한민국 육군 복무 中
   ###### 2020.01.06 ~ 2021.07.18 (조기전역 5월 16일)
   
-  ###### D - 106
+  ###### D - 105
   ****
   **[Notion BlockChain Note](https://www.notion.so/BlockChain-Project-93caff8955794e4aa48fdad791a80b1a)**
   </div>
