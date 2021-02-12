@@ -4,6 +4,7 @@
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ITlearning)](https://github.com/anuraghazra/github-readme-stats)  
   
   interested in **Blockchain,IoT.**
+  want to study AI, Deep Learning.
   
   [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/ITIBY)](https://www.facebook.com/ITIBY)
   [![Linkedin Badge](https://img.shields.io/badge/linkedin-0077b5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/byeongyun-in)](https://www.linkedin.com/in/byeongyun-in)
