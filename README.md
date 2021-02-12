@@ -8,7 +8,7 @@
   interested in **Blockchain,IoT.**
   
   [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/ITIBY)](https://www.facebook.com/ITIBY)
-  [![Linkedin Badge](https://img.shields.io/badge/linkedin-0077b5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/byeongyun-in)](https://www.facebook.com/ITIBY)
+  [![Linkedin Badge](https://img.shields.io/badge/linkedin-0077b5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/byeongyun-in)](https://www.linkedin.com/in/byeongyun-in)
 
 
   ##### 대한민국 육군 복무 中
