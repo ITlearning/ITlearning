@@ -6,7 +6,13 @@
   
  I'm interested in **Blockchain,IoT,Algorithm.**
  
+ **Things to study.**
+ Swift, Python, Deep Learning, HTML, CSS, Java Script !!
   
+ **Things I'm studying.**
+ C++, Algorithm !!
+ 
+ 
   [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/ITIBY)](https://www.facebook.com/ITIBY)
   [![Linkedin Badge](https://img.shields.io/badge/linkedin-0077b5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/byeongyun-in)](https://www.linkedin.com/in/byeongyun-in)
 
