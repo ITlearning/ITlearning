@@ -7,10 +7,12 @@
  I'm interested in **Blockchain,IoT,Algorithm.**
  
  **Things to study.**
- Swift, Python, Deep Learning, HTML, CSS, Java Script !!
+ 
+ ##### Swift, Python, Deep Learning, HTML, CSS, Java Script !!
   
  **Things I'm studying.**
- C++, Algorithm !!
+ 
+ ##### C++, Algorithm !!
  
  
   [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/ITIBY)](https://www.facebook.com/ITIBY)
