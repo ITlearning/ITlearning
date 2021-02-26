@@ -24,8 +24,9 @@
 <div align=left>
  
  **Things to study.**
- 
- ##### Swift, Python, Deep Learning, HTML, CSS, Java Script !!
+ [![Swift Badge](https://img.shields.io/badge/swift-fa7343?style=flat-square&logo=swift&logoColor=white&link=https://developer.apple.com/kr/swift/)](https://developer.apple.com/kr/swift/)
+ [![Python Badge](https://img.shields.io/badge/swift-fa7343?style=flat-square&logo=swift&logoColor=white&link=https://developer.apple.com/kr/swift/)](https://developer.apple.com/kr/swift/)
+ ##### Etc..Deep Learning, HTML, CSS, Java Script !!
  
  **Things I'm studying.**
  
