@@ -38,7 +38,7 @@
  
  [![C++ Badge](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white&link=https://isocpp.org/)](https://isocpp.org/)
  [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&link=https://www.python.org/)](https://www.python.org/)
- Deep Learning.
+ ##### Deep Learning.
  ##### Algorithm
   ****
  </div>
