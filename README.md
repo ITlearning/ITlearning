@@ -32,12 +32,13 @@
  [![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://www.w3.org/html/logo/)](https://www.w3.org/html/logo/)
  [![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white&link=https://www.w3.org/Style/CSS/)](https://www.w3.org/Style/CSS/)
  [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black&link=https://developer.mozilla.org/ko/docs/Web/JavaScript)](https://developer.mozilla.org/ko/docs/Web/JavaScript)
- ##### Etc..Deep Learning.
+
  
  **Things I'm studying.**
  
  [![C++ Badge](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white&link=https://isocpp.org/)](https://isocpp.org/)
  [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&link=https://www.python.org/)](https://www.python.org/)
+ Deep Learning.
  ##### Algorithm
   ****
  </div>
