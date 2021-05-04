@@ -4,7 +4,7 @@
  
  [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=yo7504)](https://solved.ac/yo7504)
   
- I'm interested in **Blockchain,IoT,Algorithm.**
+ I'm interested in **Blockchain,IoT,iOS.**
  
 
  
