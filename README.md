@@ -13,8 +13,8 @@
   [![Linkedin Badge](https://img.shields.io/badge/linkedin-0077b5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/byeongyun-in)](https://www.linkedin.com/in/byeongyun-in)
   [![Tistory Badge](https://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=blogger&logoColor=white&link=https://itlearning.tistory.com/)](https://itlearning.tistory.com/)
 
-  ##### 대한민국 육군 복무 中
-  ###### 2020.01.06 ~ 2021.07.18 (조기전역 5월 15일)
+  ##### 대한민국 육군 병장 만기 전역
+  ###### 5월 15일 미복귀 
   ##### iOS Developer
   ****
   **[Notion BlockChain Note](https://www.notion.so/BlockChain-Project-93caff8955794e4aa48fdad791a80b1a)**
