@@ -1,9 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=IT%20learning&desc=Better%20Better&fontSize=55&fontColor=FFFFFF&fontAlign=25&fontAlignY=40&descSize=15&descAlign=15&animation=fadeIn)
 
+ <h5> I'm interested in Blockchain,IoT,iOS. </h5>
  
-  <h5> I'm interested in Blockchain,IoT,iOS. </h5>
- 
-
  <h3> # SNS </h3>
  
   [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/ITIBY)](https://www.facebook.com/ITIBY)
