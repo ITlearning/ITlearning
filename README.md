@@ -8,8 +8,7 @@
   [![Linkedin Badge](https://img.shields.io/badge/linkedin-0077b5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/byeongyun-in)](https://www.linkedin.com/in/byeongyun-in)
   [![Tistory Badge](https://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=blogger&logoColor=white&link=https://itlearning.tistory.com/)](https://itlearning.tistory.com/)
   [![Velog Badge](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@kirri1124)](https://velog.io/@kirri1124)
-  
-  ****
+ 
 <h3> # Study Note </h3>
    
   **[Notion BlockChain Note](https://www.notion.so/BlockChain-Project-93caff8955794e4aa48fdad791a80b1a)**
@@ -22,6 +21,4 @@
  [![C++ Badge](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white&link=https://isocpp.org/)](https://isocpp.org/)
  [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&link=https://www.python.org/)](https://www.python.org/)
  [![Swift Badge](https://img.shields.io/badge/Swift-fa7343?style=flat-square&logo=Swift&logoColor=white&link=https://developer.apple.com/kr/swift/)](https://developer.apple.com/kr/swift/)
-  ****
- 
 
