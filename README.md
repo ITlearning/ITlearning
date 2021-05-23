@@ -21,4 +21,5 @@
  [![C++ Badge](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white&link=https://isocpp.org/)](https://isocpp.org/)
  [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&link=https://www.python.org/)](https://www.python.org/)
  [![Swift Badge](https://img.shields.io/badge/Swift-fa7343?style=flat-square&logo=Swift&logoColor=white&link=https://developer.apple.com/kr/swift/)](https://developer.apple.com/kr/swift/)
-
+ [![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white&link=https://flutter.dev/)](https://flutter.dev/)
+ [![Dart Badge](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white&link=https://flutter.dev/)](https://flutter.dev/)
