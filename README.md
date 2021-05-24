@@ -14,12 +14,14 @@
   **[Notion BlockChain Note](https://www.notion.so/BlockChain-Project-93caff8955794e4aa48fdad791a80b1a)**
 
 <h3> # Tech Stack </h3>
- 
- [![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://www.w3.org/html/logo/)](https://www.w3.org/html/logo/)
- [![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white&link=https://www.w3.org/Style/CSS/)](https://www.w3.org/Style/CSS/)
- [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black&link=https://developer.mozilla.org/ko/docs/Web/JavaScript)](https://developer.mozilla.org/ko/docs/Web/JavaScript)
- [![C++ Badge](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white&link=https://isocpp.org/)](https://isocpp.org/)
+  
+  [![C++ Badge](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white&link=https://isocpp.org/)](https://isocpp.org/)
+  [![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white&link=https://flutter.dev/)](https://flutter.dev/) 
+  [![Dart Badge](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white&link=https://flutter.dev/)](https://flutter.dev/) 
+  [![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white&link=https://www.w3.org/Style/CSS/)](https://www.w3.org/Style/CSS/)
  [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&link=https://www.python.org/)](https://www.python.org/)
+ [![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://www.w3.org/html/logo/)](https://www.w3.org/html/logo/) 
  [![Swift Badge](https://img.shields.io/badge/Swift-fa7343?style=flat-square&logo=Swift&logoColor=white&link=https://developer.apple.com/kr/swift/)](https://developer.apple.com/kr/swift/)
- [![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white&link=https://flutter.dev/)](https://flutter.dev/)
- [![Dart Badge](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white&link=https://flutter.dev/)](https://flutter.dev/)
+ [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black&link=https://developer.mozilla.org/ko/docs/Web/JavaScript)](https://developer.mozilla.org/ko/docs/Web/JavaScript)
+ 
+ 
