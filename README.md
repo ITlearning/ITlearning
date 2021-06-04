@@ -4,10 +4,11 @@
  
  <h3> # SNS </h3>
  
+  [![Velog Badge](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@kirri1124)](https://velog.io/@kirri1124)
   [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/ITIBY)](https://www.facebook.com/ITIBY)
   [![Linkedin Badge](https://img.shields.io/badge/linkedin-0077b5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/byeongyun-in)](https://www.linkedin.com/in/byeongyun-in)
   [![Tistory Badge](https://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=blogger&logoColor=white&link=https://itlearning.tistory.com/)](https://itlearning.tistory.com/)
-  [![Velog Badge](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@kirri1124)](https://velog.io/@kirri1124)
+  
  
 <h3> # Study Note </h3>
    
