@@ -10,7 +10,7 @@
  
 <h3> # Study Note </h3>
    
-  [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/TIL-28aa89dbbdf84200aaa7cb99e026fdc8)](https://www.notion.so/TIL-28aa89dbbdf84200aaa7cb99e026fdc8)
+  [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/TIL-28aa89dbbdf84200aaa7cb99e026fdc8)](https://glistening-napkin-e86.notion.site/TIL-28aa89dbbdf84200aaa7cb99e026fdc8)
 
 <h3> # Tech Stack </h3>
 
