@@ -20,3 +20,7 @@
  [![VSCode Badge](https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&link=https://www.python.org/)](https://www.python.org/)
  [![C++ Badge](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white&link=https://isocpp.org/)](https://isocpp.org/)
  
+<h3> # Contributor </h3>
+
+- HaishinKit.swift (3,000+ Stars) : Add framerate to RTMP onMetaData https://github.com/HaishinKit/HaishinKit.swift/pull/1832
+- ClawTeam (280+ Stars) : docs: add Korean README translation https://github.com/HKUDS/ClawTeam/pull/2
