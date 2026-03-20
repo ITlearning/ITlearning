@@ -23,4 +23,4 @@
 <h3> # Contributor </h3>
 
 - HaishinKit.swift (3,000+ Stars) : Add framerate to RTMP onMetaData https://github.com/HaishinKit/HaishinKit.swift/pull/1832
-- ClawTeam (1,200+ Stars) : docs: add Korean README translation https://github.com/HKUDS/ClawTeam/pull/2
+- ClawTeam (1,700+ Stars) : docs: add Korean README translation https://github.com/HKUDS/ClawTeam/pull/2
