@@ -23,7 +23,7 @@
 <h3> # Contributor </h3>
 
 - HaishinKit.swift (3,000+ Stars) : Add framerate to RTMP onMetaData https://github.com/HaishinKit/HaishinKit.swift/pull/1832
-- ClawTeam (3,200+ Stars) : docs: add Korean README translation https://github.com/HKUDS/ClawTeam/pull/2
-- get-shit-done (40,000+ Stars)
+- ClawTeam (3,700+ Stars) : docs: add Korean README translation https://github.com/HKUDS/ClawTeam/pull/2
+- get-shit-done (42,700+ Stars)
   - docs: add Korean (ko-KR) README translation https://github.com/gsd-build/get-shit-done/pull/1349
   - docs: add complete Korean (ko-KR) documentation — 12 translated files https://github.com/gsd-build/get-shit-done/pull/1350
